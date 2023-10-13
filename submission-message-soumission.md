@@ -2,7 +2,7 @@
 
 ##Nom de l'étudiant | Student Name:
 
-John Smith
+Liana Brault
 
 ##GitHub Pages:
 
